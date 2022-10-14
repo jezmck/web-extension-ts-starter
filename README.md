@@ -33,7 +33,7 @@ A web extension starter, built with React, Typescript, and Tailwind CSS. Build o
 Clone this repository:
 
 ```
-git clone git@github.com:BCIT-DDC/web-extension-ts-starter.git
+git clone https://github.com/BCIT-DDC/web-extension-ts-starter.git
 ```
 
 Install npm dependencies:
